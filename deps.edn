@@ -1,0 +1,4 @@
+{:deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        com.xtdb/xtdb-core {:mvn/version "1.20.0"}
+        com.xtdb/xtdb-lucene {:mvn/version "1.20.0"}
+        com.xtdb/xtdb-rocksdb {:mvn/version "1.20.0"}}}

@@ -1,0 +1,1 @@
+Issue to replicate https://github.com/xtdb/xtdb/discussions/1690 with the latest XTDB version.
